@@ -17,7 +17,7 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 
 # Visualizing data 1
-The below visualization represents the value on y-axis across different locations from the year 2020. The best part of the viusal is that one can seelct the respective location and that would change the color so forth. Moreover hovering over the bar shows a the value for that particular location.
+The below visualization represents the value on y-axis across different locations from the year 2020. The user can hover over the bar to see  the value for that particular location.
 
 <iframe src="https://data.oecd.org/chart/6vtB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vtB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
