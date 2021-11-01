@@ -12,7 +12,8 @@ I hope to be profecient with expressing stories throguh data since data visualiz
 # Portfolio
 Here's all of my cool work related to visualizations will go. 
 
-# Assignment 1
+# Assignment Visualizing data
+<iframe src="https://data.oecd.org/chart/6vtB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vtB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 # Assignment 2
 
