@@ -18,6 +18,7 @@ Here's all of my cool work related to visualizations will go.
 # Flousih Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/7690760"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Assignment 3
+# Flourish Visualization 2
+<div class="flourish-embed flourish-chart" data-src="visualisation/7696900"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Final Project
