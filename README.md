@@ -15,7 +15,8 @@ Here's all of my cool work related to visualizations will go.
 # Assignment Visualizing data
 <iframe src="https://data.oecd.org/chart/6vtB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vtB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
-# Assignment 2
+# Flousih Visualization
+<div class="flourish-embed flourish-chart" data-src="visualisation/7690760"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Assignment 3
 
