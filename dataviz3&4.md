@@ -18,3 +18,4 @@ I think the following points don't work in the above visualization and can be im
 
 ### Wireframe of the solution
 I created an initital wireframe of my solution, a simple pen and paper sketch, as shown below:
+![Wireframe](/Wireframe.png)
