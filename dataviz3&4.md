@@ -15,9 +15,9 @@ I think the following points don't work in the above visualization and can be im
 2. The stacked bar chart uses 2 different colors pink and blue to convey the information about mortgage payments on the left and renting on the right respectively. A much more efficient way could be the usage of the same color (maybe blue or yellow) of bar now since we have changed the metric of comparison.
 3. The visual is sorted by the monthly mortgage payments but then on the right side it becomes unsorted and then it becomes hard for the viewer to judge. 
 
-
 ### Wireframe of the solution
 I created an initital wireframe of my solution, a simple pen and paper sketch, as shown below:
+
 ![Wireframe](/Wireframe.png)
 
 My thought processs to create this wireframe was to show a contarst between renting and buying rather than doing a comparison between the two side by side like how it was originally. So I changed the metric about the decision between renting and buying by calculating the difference between the two and plotting a bar graph where above the x-axis on the positive side are the states where renting seems a better option and below the x-axis are the states where buying is preferred.
@@ -33,6 +33,19 @@ I got feedback from 2 people on my wireframe, each of which made me realize diff
 
 Answers to some of the other questions that I asked:
 1. Both users were able to identify that the plot was aimed towards the general public looking to identify states where renting is preferred than buying.
-2. Both users were able to understand the meaning of the visuals and the interpretation being derived from them.
+2. Both users were able to understand the meaning of the visual and the interpretation being derived from them.
  
 Based on the feedback provided by the 2 users, I moved on to change my visual accordingly.
+
+### Building my solution
+Based on the feedback received, I made the following changes:
+1. I categorized Renting and buying with two different colors to show a contrast ( Buying - Orange and Renting - Green)  .
+2. Sorted the data based on the difference amount showing the meter level movement towards buying from left to right.
+3. I changed the title to much more brief description about the story that the visualization wants to convey which "According to 2018 statistics, renting is better in majority of the states".
+4. Added the legends to signify rent and buy.
+5. Changed the Y axis label to much more descriptive title.
+
+### Final Visualization
+My visualization is attached below:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7769379"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
