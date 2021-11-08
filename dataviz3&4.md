@@ -28,6 +28,8 @@ I got feedback from 2 people on my wireframe, each of which made me realize diff
 1. Viewer 1 indicated that it would be more useful in terms of understanding to place the more intuitive title instead of "Renting vs Buying" as the main heading at the top along with the areas that specify the renting and buying section on either side of the x-axis, as that's the first thing that gets noticed we see.
 2. Viewer 2 indicated that the story that my visual was concentrating on was in which states renting is more preferred than buying and to understand it much better I should use two colors for different areas renting and buying respectively.
 3. Viewer 1 also suggested that it might be interesting if I could highlight the states which were neutral and did not have much difference between renting and buying.
+4. Viewer 2 gave me a suggestion of instead of using boxes of Rent and Buy on either side of the axis, use a meter which would specify buying on the left side and renting on the right side.
+5. Viewer 1 indicated to help understand the context better, sort the bars on the basis of difference in amount.
 
 Answers to some of the other questions that I asked:
 1. Both users were able to identify that the plot was aimed towards the general public looking to identify states where renting is preferred than buying.
