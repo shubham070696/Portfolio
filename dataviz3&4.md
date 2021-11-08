@@ -19,3 +19,5 @@ I think the following points don't work in the above visualization and can be im
 ### Wireframe of the solution
 I created an initital wireframe of my solution, a simple pen and paper sketch, as shown below:
 ![Wireframe](/Wireframe.png)
+
+My thought processs to create this wireframe was to show a contarst between renting and buying rather than doing a comparison between the two side by side like how it was originally. So I changed the metric about the decision between renting and buying by calculating the difference between the two and plotting a bar graph where above the x-axis on the positive side are the states where renting seems a better option and below the x-axis are the states where buying is preferred.
