@@ -32,7 +32,7 @@ To this visualization I added the flexibility for the user to choose the countir
 <div class="flourish-embed flourish-chart" data-src="visualisation/7696900"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Visualizing data 4
-[Assignment3](/dataviz3&4.md)
+[Link to page](/dataviz3&4.md)
 
 
 
