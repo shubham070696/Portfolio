@@ -30,6 +30,7 @@ I got feedback from 2 people on my wireframe, each of which made me realize diff
 3. Viewer 1 also suggested that it might be interesting if I could highlight the states which were neutral and did not have much difference between renting and buying.
 4. Viewer 2 gave me a suggestion of instead of using boxes of Rent and Buy on either side of the axis, use a meter which would specify buying on the left side and renting on the right side.
 5. Viewer 1 indicated to help understand the context better, sort the bars on the basis of difference in amount.
+6. Viewer 2 also indicated that the legends should be added which describes your story and the title.
 
 Answers to some of the other questions that I asked:
 1. Both users were able to identify that the plot was aimed towards the general public looking to identify states where renting is preferred than buying.
@@ -38,12 +39,12 @@ Answers to some of the other questions that I asked:
 Based on the feedback provided by the 2 users, I moved on to change my visual accordingly.
 
 ### Building my solution
-Based on the feedback received, I made the following changes:
-1. I categorized Renting and buying with two different colors to show a contrast ( Buying - Orange and Renting - Green)  .
-2. Sorted the data based on the difference amount showing the meter level movement towards buying from left to right.
+Based on the feedback received, I made the following changes, since my whole story revolves around conveying that majority of that states renting is better option:
+1. I categorized renting and buying with two different colors to show a contrast ( Buying - Orange and Renting - Green). I selected green for renting to show the correlation with my title that renting is better in majority of the states.
+2. Sorted the data based on the difference amount showing the movement towards renting from left to right.
 3. I changed the title to much more brief description about the story that the visualization wants to convey which "According to 2018 statistics, renting is better in majority of the states".
-4. Added the legends to signify rent and buy.
-5. Changed the Y axis label to much more descriptive title.
+4. Added the descriptive legends to signify preferring to rent and buy.
+5. Changed the Y axis label to much more descriptive title according to the changed metric.
 
 ### Final Visualization
 My visualization is attached below:
