@@ -17,15 +17,15 @@ A basic outline of my priject would look like:
 
 ## 2. Initial Sketches: 
 
-![](/Tsd1.jpg)
+![](/Tsd1 (1).jpg)
 
-![](/Tsd2.jpg)
+![](/Tsd2 (1).jpg)
 
-![](/Tsd3.jpg)
+![](/Tsd3 (1).jpg)
 
-![](/Tsd4.jpg)
+![](/Tsd4 (1).jpg)
 
-![](/Tsd5.jpg)
+![](/Tsd5 (1).jpg)
 
 
 ## 3. Data: 
