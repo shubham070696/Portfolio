@@ -37,4 +37,4 @@ To this visualization I added the flexibility for the user to choose the countir
 
 
 # Final Project
-1. [Link to page](/proposal.md)
+1. [Project Proposal](/proposal.md)
