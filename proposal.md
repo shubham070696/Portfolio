@@ -15,7 +15,7 @@ A basic outline of my priject would look like:
 * How can they be prevented?
 
 
-## 2. Initial Sketches: 
+## 2. Thought Sketches: 
 
 ![](/Tsd1 (1).png)
 
@@ -46,7 +46,7 @@ I am thinking of working on this final project in iterative fashion and the step
 
 ### Phase 2:
   * Gather data and Perform cleaning using Python
-  * Create wireframes for vizualiaztions from the initial sketches
+  * Create wireframes for vizualiaztions from the thought sketches.
   * Creating the vizualizations using Tableau, Flourish studio etc. 
   * Refining and tweaking
   
