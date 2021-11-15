@@ -2,9 +2,9 @@
 
 ## 1. Outline: 
 
-For my final project, I want to focus on Chroic Diseases in the United States which are ongoing and incurable diseases. I want to tell a visual story to demonstrate different various statistics and facts with visualizations which will make my audience understand how bad the current situation is and the consequences if continued to be ignorant towards these conditions.
+For my final project, I want to focus on Chroic Diseases in the United States which are ongoing and incurable diseases. I want to tell a visual story to demonstrate various statistics and facts with visualizations which will make my audience understand how bad the current situation is in the US and the consequences if continued to be ignorant towards these conditions.
 
-Chronic diseases in the US is a serious problem with every 6 out of 10 people having some chronic condition, which will over time cost a lot in terms of money and the quality of life. I want to draw attention to the most common Chronic diseases that includes: hypertension, coronary heart disease, stroke, diabetes, cancer, arthritis, hepatitis, weak or failing kidneys, current asthma, and COPD.
+Chronic diseases in the US is a serious problem with every 6 out of 10 people having some chronic condition that can lead to death if not dealt early, and if delayed will over time cost a lot in terms of money and the quality of life. I also want to draw attention to the most common chronic diseases that includes: hypertension, coronary heart disease, stroke, diabetes, cancer, arthritis, hepatitis, weak or failing kidneys, current asthma, and COPD.
 
 
 Story flow for the presentation:
@@ -38,15 +38,15 @@ I am thinking of working on this final project in iterative fashion and the step
 
 ### Iteration 1 (Current): 
 
-  * Researching and gaining a thorough understanding of the topic.
-  * Key facts and statistics that I want to convey. 
-  * Create a story arc of emotions that I want my audience to feel as they go through my work.
-  * Get User Feedback on story arc and any suggestions.
-  * Initial thought sketches of the vizualizations.
+  * Research about the topic.
+  * Key facts and statistics that I want to convey from the data. 
+  * Create a story arc of emotions for my target audience.
+  * Get user feedback on story arc and any suggestions.
+  * Initial thought sketches for the vizualizations.
 
 ### Iteration 2:
   * Gather data and perform cleaning using Python and explore the dataset more.
-  * Create wireframes for vizualiaztions from the thought sketches and explorations .
+  * Create wireframes for vizualiaztions from the thought sketches and other explorations models .
   * Finalizing the visualization on the feedback received.
   * Creating the vizualizations on Tableau, Flourish studio etc. 
   * Refining and tweaking.
