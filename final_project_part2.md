@@ -23,12 +23,21 @@ I have created a pie chart in order to viusalize and see the percentage of adult
 </script>
   
   
-** Percentage of healthcare spending**
+**Percentage of healthcare spending**
   
- Some key insights that I found from this was that with each number of conditions, with each additional chronic condition, the amount of health care expenditure increases and increase more than double.
+ Some key insights that I found from this was that with each number of conditions, with each additional chronic condition, the amount of health care expenditure increases and increase more than double. 35% of the healthcare spending is on 8.7% people who are sufferring with more than 5 chronic conditions.
   
   
 * <div class="flourish-embed flourish-chart" data-src="visualisation/7896161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  
+  
+**Healthcare spending per capita**
+  
+Compared to those without any chronic conditions:
+  
+• Spending is almost 2.5 times morefor those with one, 6 times more with 3 and 13.5 times more than with 5 or more chronic conditions
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7896309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
 ## 2. Key behaviors that lead to chronic diseases
