@@ -47,8 +47,7 @@ Compared to those without any chronic conditions:
   * Lack of physical activity
   * Excessive alcholol use
   
-  
-  
+   
 ## My Target Audience: 
 
 My target audience is the general public. I want to focus on the various chronic conditions that affect adults and what their affects are. Since the scope of this topic is quite broad and to focus on providing more relevant details to the audience, I am continuosly working on finding ways to convey my information with more effective visualizations. Since I want my audience to be more aware of how deadly and serious these chronic diseases are and provide them with ways to prevent them. 
@@ -59,8 +58,8 @@ My target audience is the general public. I want to focus on the various chronic
   2. Do you understand the flow of topics, is the flow of information correct?
   3. What do you understood from vizualisations, are they effective? Is there anything that you would want me to change even if that's related to color scheme or background of        any section of the page?
   
-  
-  ## Findings from the interview
+ 
+## Findings from the interview
   
    1. Could you summarize the central idea of the webpage?
   
@@ -77,7 +76,7 @@ My target audience is the general public. I want to focus on the various chronic
           2. They pointed out that in the section of healthcare spending, color sceheme can be changed to be more consistent with the whole story on shorthand.
           3. Legends and labels to be more appealing in the visualizations.
   
-  ## Changes to be implemeneted:
+## Changes to be implemented:
    
   1. Adding and refining the current visualizations with clearer legends and labels, color scheme.
   2. Integrate the changes on shorthand.
