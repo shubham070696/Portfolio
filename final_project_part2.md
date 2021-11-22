@@ -53,6 +53,35 @@ Compared to those without any chronic conditions:
 
 My target audience is the general public. I want to focus on the various chronic conditions that affect adults and what their affects are. Since the scope of this topic is quite broad and to focus on providing more relevant details to the audience, I am continuosly working on finding ways to convey my information with more effective visualizations. Since I want my audience to be more aware of how deadly and serious these chronic diseases are and provide them with ways to prevent them. 
 
-## Representative Individuals: 
+## Interview Script: 
+  
+  1. Could you summarize the central idea of the webpage?
+  2. Do you understand the flow of topics, is the flow of information correct?
+  3. What do you understood from vizualisations, are they effective? Is there anything that you would want me to change even if that's related to color scheme or background of        any section of the page?
+  
+  
+  ## Findings from the interview
+  
+   1. Could you summarize the central idea of the webpage?
+  
+  Answer: 1. Everybody understood the central idea of my story - it is about the seriousness of chronic diseases and how to prevent them.
+          2. Avoiding chronic diseases are very important, otherwise it can cost an individual is lot.
+   
+    2. Do you understand the flow of topics, is the flow of information correct?
+  
+  Answer: Everybody found the flow of topics to be appropriate, seems to covey the information that is necessary but suggested some improvements in teh visualisation.
+  
+    3. What do you understood from vizualisations, are they effective? Is there anything that you would want me to change even if that's related to color scheme or background of        any section of the page?
+  
+  Answer: 1. They seem to have some problem in understanding the graph "leading causes of deaths in the US". They pointed out that it would have been better, if it had x-axis                 labels and instead of the static number on the bars as values, it could have better if on hovering on the bars the labels along with values would be shown.
+          2. They pointed out that in the section of healthcare spending, color sceheme can be changed to be more consistent with the whole story on shorthand.
+          3. Legends and labels to be more appealing in the visualizations.
+  
+  ## Changes to be implemeneted:
+   
+  1. Adding and refining the current visualizations with clearer legends and labels, color scheme.
+  2. Integrate the changes on shorthand.
+  3. Adding the leading risk factors writeup.
+  
 
 
