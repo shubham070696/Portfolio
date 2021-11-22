@@ -46,5 +46,13 @@ Compared to those without any chronic conditions:
   * Poor diet
   * Lack of physical activity
   * Excessive alcholol use
+  
+  
+  
+## My Target Audience: 
+
+My target audience is the general public. It is about all the various conditions that affect american adults and what their affects are. Since the scope of this is quite broad and to focus on providing more relevant details to the audience, I am continuosly working on finding ways to convey my information with more effective visualizations. Since I want my audience to be more aware of how aware of how deadly and serious these chronic diseases are and provide them with knowldege on how to prevent them. 
+
+## Representative Individuals: 
 
 
