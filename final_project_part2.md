@@ -28,7 +28,7 @@ I have created a pie chart in order to viusalize and see the percentage of adult
  Some key insights that I found from this was that with each number of conditions, with each additional chronic condition, the amount of health care expenditure increases and increase more than double.
   
   
- <div class="flourish-embed flourish-chart" data-src="visualisation/7896161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+* <div class="flourish-embed flourish-chart" data-src="visualisation/7896161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
 ## 2. Key behaviors that lead to chronic diseases
