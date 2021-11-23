@@ -1,7 +1,5 @@
 ## Story Flow: 
 
-## 1. Introduction: 
-
 Chronic conditions are defined as conditions that last more than a year and which require ongoing medical attention. They are the leading drivers of the nation's budget on healthcare which is $3.8 trillion in annual healthcare costs. 
 
 ![](/Chronic-disease.PNG)
@@ -47,7 +45,11 @@ Compared to those without any chronic conditions:
   * Lack of physical activity
   * Excessive alcholol use
   
-   
+<script src="https://carnegiemellon.shorthandstories.com/chronic-disease-presentation/embed.js"></script>
+
+Above is a rough draft of the Shorthand page that I Will be developing as part of my this project. I am still working on integrating the pieces once my visualizations are finzlized.
+  
+  
 ## My Target Audience: 
 
 My target audience is the general public. I want to focus on the various chronic conditions that affect adults and what their affects are. Since the scope of this topic is quite broad and to focus on providing more relevant details to the audience, I am continuosly working on finding ways to convey my information with more effective visualizations. Since I want my audience to be more aware of how deadly and serious these chronic diseases are and provide them with ways to prevent them. 
