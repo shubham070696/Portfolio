@@ -67,8 +67,9 @@ My target audience is the general public. I want to focus on the various chronic
   
    1. Could you summarize the central idea of the webpage?
   
-  Answer: 1. Everybody understood the central idea of my story - it is about the seriousness of chronic diseases and how to prevent them.
-          2. Avoiding chronic diseases are very important, otherwise it can cost an individual is lot.
+  Answer: 
+    1. Everybody understood the central idea of my story - it is about the seriousness of chronic diseases and how to prevent them.
+    2. Avoiding chronic diseases are very important, otherwise it can cost an individual is lot.
    
     2. Do you understand the flow of topics, is the flow of information correct?
   
@@ -76,9 +77,10 @@ My target audience is the general public. I want to focus on the various chronic
   
     3. What do you understood from vizualisations, are they effective? Is there anything that you would want me to change even if that's related to color scheme or background of        any section of the page?
   
-  Answer: 1. They seem to have some problem in understanding the graph "leading causes of deaths in the US". They pointed out that it would have been better, if it had x-axis                 labels and instead of the static number on the bars as values, it could have better if on hovering on the bars the labels along with values would be shown.
-          2. They pointed out that in the section of healthcare spending, color sceheme can be changed to be more consistent with the whole story on shorthand.
-          3. Legends and labels to be more appealing in the visualizations.
+  Answer:
+     1. They seem to have some problem in understanding the graph "leading causes of deaths in the US". They pointed out that it would have been better, if it had x-axis                 labels and instead of the static number on the bars as values, it could have better if on hovering on the bars the labels along with values would be shown.
+     2. They pointed out that in the section of healthcare spending, color sceheme can be changed to be more consistent with the whole story on shorthand.
+     3. Legends and labels to be more appealing in the visualizations.
   
 ## Changes to be implemented:
    
