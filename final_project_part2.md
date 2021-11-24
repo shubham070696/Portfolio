@@ -56,6 +56,8 @@ My target audience is the general public. I want to focus on the various chronic
 
 ## Interview Script: 
   
+  I decided to interview 3 people with the following questions:
+  
   1. Could you summarize the central idea of the webpage?
   2. Do you understand the flow of topics, is the flow of information correct?
   3. What do you understood from vizualisations, are they effective? Is there anything that you would want me to change even if that's related to color scheme or background of        any section of the page?
