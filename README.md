@@ -39,3 +39,4 @@ To this visualization I added the flexibility for the user to choose the countir
 # Final Project
 1. [Project Proposal](/proposal.md)
 2. [Part2](/final_project_part2.md)
+3. [Part3](/final_project_partIII.md)
