@@ -19,17 +19,19 @@ I used vizualizations which were the most simple and effective to convey the mes
 **Leading Causes of Death in the US**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7940221"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ 
+Source: https://injuryfacts.nsc.org/all-injuries/deaths-by-demographics/all-leading-causes-of-death/
 
 **Chronic conditions are very expensive!**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7896161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-source: https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/prevention-chronic-care/decision/mcc/mccchartbook.pdf
+Source: https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/prevention-chronic-care/decision/mcc/mccchartbook.pdf
 
 **Average healthcare spending per capita by number of chronic conditions**
 <div class="flourish-embed flourish-chart" data-src="visualisation/7896309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-source: https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/prevention-chronic-care/decision/mcc/mccchartbook.pdf
+Source: https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/prevention-chronic-care/decision/mcc/mccchartbook.pdf
 
 ## Changes made to the initial story
 
