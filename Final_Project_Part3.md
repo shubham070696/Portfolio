@@ -56,7 +56,7 @@ Since I have worked in healthcare domain before landing in the states and I know
 * On the government level, how much does the US government spend on the US's healthcare
 * How does the spending increases with the increase in chronic conditions.
 
-## Link to the Final project ##
+## Link to the Shorthand Presentation ##
 
 [Chronic Diseases: What you may not know about them?](https://carnegiemellon.shorthandstories.com/chronic-disease-presentation/index.html)
 
