@@ -39,6 +39,22 @@ source: https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/preventio
 
 * I have tried to also incorporate a section about ways to prevent chronic diseases rather than just focusing on the issue that how serious it is.
  
+ 
+ ## Design Desicions
+ 
+* I tried creating different sections that highlight different topics that I want my audience to pay attention to regarding my topic.
+ 
+* I tried creating flow of my story, which starts with introduction, then moving on to the facts about chronic diseases to show the audience about the seriousness and then how are they caused and then lastly how can they be prevented.
+ 
+ * My theme switches between black and white, where black denotes the information that the audience should pay attention to and white for the visualizations. I chose white for visualizations to make the text and data visible clearly.
+
+## Observations
+ 
+Since I have worked in healthcare domain before landing in the states and I know about the conditions of healthcare in India and so my motivation of taking up this porject was to see how does the condition in the United States differ from India. Is it better or worse? I did see a lot of trend and could relate.
+ 
+* Identified the leading causes of deaths
+* On the government level, how much does the US government spend on the US's healthcare
+* How does the spending increases with the increase in chronic conditions.
 
 ## Link to the Final project ##
 
