@@ -12,14 +12,11 @@ I hope to be profecient with expressing stories throguh data since data visualiz
 # Visualization Work
 Here's all of my cool work related to visualizations will go. 
 
-1. Data-Viz-Crtiquing
-[Link to critique writeup](./Data-Viz-Critique-1.xlsx)
+1. [Data-Viz-Crtiquing](./Data-Viz-Critique-1.xlsx)
 
-2. Visualizing Government Debt
-[Link to visualizations](./TSWDass2.md)
+2. [Visualizing Government Debt](./TSWDass2.md)
 
-3. Design Critique
-[Link to critique](/dataviz3&4.md)
+3. [Design Critique](/dataviz3&4.md)
 
 4. [Final Project Part1](/proposal.md)
 
