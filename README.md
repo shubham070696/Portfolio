@@ -13,15 +13,15 @@ I hope to be profecient with expressing stories throguh data since data visualiz
 Here's all of my cool work related to visualizations will go. 
 
 # Data-Viz-Crtiquing
-[Critique](./Data-Viz-Critique-1.xlsx)
+[Link to critique writeup](./Data-Viz-Critique-1.xlsx)
 
 # Visualizing Government Debt
 [Link to visualizations](./TSWDass2.md)
 
 # Design Critique
-[Link to page](/dataviz3&4.md)
+[Link to critique](/dataviz3&4.md)
 
 # Final Project
-1. [Project Proposal](/proposal.md)
-2. [Part2](/final_project_part2.md)
-3. [Part3](/Final_Project_Part3.md)
+1. [Project Part1](/proposal.md)
+2. [Project Part2](/final_project_part2.md)
+3. [Project Part3](/Final_Project_Part3.md)
