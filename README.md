@@ -9,19 +9,20 @@ Speaking of a few fun facts about me, I am really passionate about football and 
 # What I hope to learn
 I hope to be profecient with expressing stories throguh data since data visualization is of paramount importance in order to work with data.
 
-# Portfolio
+# Visualization Work
 Here's all of my cool work related to visualizations will go. 
 
-# Data-Viz-Crtiquing
+1. Data-Viz-Crtiquing
 [Link to critique writeup](./Data-Viz-Critique-1.xlsx)
 
-# Visualizing Government Debt
+2. Visualizing Government Debt
 [Link to visualizations](./TSWDass2.md)
 
-# Design Critique
+3. Design Critique
 [Link to critique](/dataviz3&4.md)
 
-# Final Project
-1. [Project Part1](/proposal.md)
-2. [Project Part2](/final_project_part2.md)
-3. [Project Part3](/Final_Project_Part3.md)
+4. [Final Project Part1](/proposal.md)
+
+5. [Final Project Part2](/final_project_part2.md)
+
+6. [Final Project Part3](/Final_Project_Part3.md)
