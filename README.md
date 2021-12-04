@@ -12,6 +12,9 @@ I hope to be profecient with expressing stories throguh data since data visualiz
 # Portfolio
 Here's all of my cool work related to visualizations will go. 
 
+# Data-Viz-Crtiquing
+[Critique][./Data-Viz-Critique-1]
+
 # About the data
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 
